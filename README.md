@@ -31,7 +31,7 @@
 </br>
 </br>
 </br>
-</br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chaitanyaputhran&show_icons=true&locale=en&&theme=tokyonight" alt="chaitanyaputhran" /></p>
 </br>
 </br>
