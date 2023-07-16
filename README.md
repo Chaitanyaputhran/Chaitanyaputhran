@@ -1,5 +1,5 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-<h1 align="center">Hi 👋, I'm Chaitanya Puthran</h1>
+<h1 align="center">Hi , I'm Chaitanya Puthran</h1>
 
 </br>
 </br>
