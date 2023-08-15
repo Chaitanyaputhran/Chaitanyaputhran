@@ -1,4 +1,4 @@
-![Banner](https://indoanalytica.com/static/images/bannerr.gif)
+  ![Banner](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hey there, I'm Chaitanya Puthran 👋</h1>
 
