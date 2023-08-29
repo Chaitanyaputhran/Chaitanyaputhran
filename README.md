@@ -1,6 +1,6 @@
   ![Banner](https://indoanalytica.com/static/images/bannerr.gif)
 
-<h1 align="center">Hey there, I'm Chaitanya Puthran 👋</h1>
+<h1 align="center">Hey there, I'm Chaitanya Puthran </h1>
 
 <p align="center">
   <a href="mailto:chaitanyaputhran4@gmail.com">📫 Reach out to me</a>
