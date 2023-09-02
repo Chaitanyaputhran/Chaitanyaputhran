@@ -32,15 +32,15 @@
 
 <h2 align="center">Stats and Achievements:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyaputhran&show_icons=true&locale=en&&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyaputhran&show_icons=true&locale=en&&theme=highcontrast&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyaputhran&show_icons=true&locale=en&&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyaputhran&show_icons=true&locale=en&&theme=highcontrast" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyaputhran&&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyaputhran&&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 <p align="center">Let's connect, collaborate, and create something amazing together!</p>
