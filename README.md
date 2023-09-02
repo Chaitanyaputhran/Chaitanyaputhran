@@ -11,7 +11,7 @@
   <a href="https://twitter.com/chaiputhran_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" /></a>
   <a href="https://linkedin.com/in/chaitanya-puthran-366079238" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" /></a>
   <a href="https://kaggle.com/chaitanyaputhran" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" /></a>
-  <a href="https://instagram.com/chai.puthran_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" /></a>
+
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
