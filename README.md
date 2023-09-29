@@ -1,5 +1,4 @@
-  ![Banner](https://indoanalytica.com/static/images/bannerr.gif)
-
+![An image of @chaitanyaputhran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaitanyaputhran)
 <h1 align="center">Hey there, I'm Chaitanya Puthran </h1>
 
 <p align="center">
