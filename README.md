@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Chaitanya Puthran </h1>
 
 <p align="center">
-  <a href="mailto:chaitanyaputhran4@gmail.com">📫 Reach out to me</a>
+  <a href="mailto:chaitanyaputhran4@gmail.com" color="white">📫 Reach out to me</a>
 </p>
 
 <h2 align="center">Connect with me:</h2>
