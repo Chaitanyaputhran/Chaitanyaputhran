@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-<h2 align="center">Stats and Achievements:</h2>
+<h2 align="center">Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyaputhran&show_icons=true&locale=en&&theme=highcontrast&layout=compact" alt="Top Languages" />
 </p>
