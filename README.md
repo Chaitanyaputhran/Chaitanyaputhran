@@ -35,7 +35,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyaputhran&show_icons=true&locale=en&&theme=highcontrast" alt="GitHub Stats" />
+
+  <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chaitanyaputhran&show_icons=true&locale=en&theme=highcontrast" alt="Chaitanyaputhran" /></p>
 </p>
 
 <p align="center">
