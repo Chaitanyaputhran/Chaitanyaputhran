@@ -32,6 +32,8 @@
 <h2 align="center">Stats and Achievements</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyaputhran&show_icons=true&locale=en&&theme=highcontrast&layout=compact" alt="Top Languages" />
+</div>
+<br>
 </p>
 
 <p align="center">
