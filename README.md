@@ -1,6 +1,6 @@
 [![An image of @chaitanyaputhran's Holopin badges](https://holopin.me/chaitanyaputhran)](https://holopin.io/@chaitanyaputhran)
 
-<h1 align="center" style="color: #FF0000;">Hey there, I'm Chaitanya Puthran 👋</h1>
+<h1 align="center" style="color: #FF0000;">Hey there, I'm Chaitanya Puthran👋</h1>
 
 <p align="center">
   <a href="mailto:chaitanyaputhran4@gmail.com" style="color: #FF0000;">📫 Reach out to me</a>
